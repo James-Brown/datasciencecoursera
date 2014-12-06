@@ -8,7 +8,7 @@ uses
   AbNumEdit, AbSwitch, AbGradient, Registry, Menus, uSETITypes, ComCtrls;
 
 const
-  SETINetClockKey = '\SOFTWARE\SETI Net\Clock'; // Jim - YES YES YES space in SETI Net IS Important...
+
   cr = #13;
   lf = #12;
 
